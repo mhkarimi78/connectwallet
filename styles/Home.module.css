@@ -117,3 +117,8 @@
 .logo img {
   filter: invert(1);
 }
+.customWallet {
+  background-color: rgb(41, 106, 163);
+  font-weight: bold;
+  color: #0ea5e9;
+}
